@@ -1,0 +1,8 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+scripts/__pycache__/
+photos-back/
+venv/
+pdf

@@ -1,0 +1,750 @@
+{
+  "order": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png",
+    "07.png",
+    "08.png",
+    "09.png",
+    "10.png",
+    "11.png",
+    "12.png",
+    "13.png",
+    "14.png",
+    "15.png",
+    "16.png",
+    "17.png",
+    "18.png",
+    "19.png",
+    "20.png",
+    "21.png",
+    "22.png",
+    "23.png",
+    "24.png",
+    "25.png",
+    "26.png",
+    "27.png",
+    "28.png",
+    "29.png",
+    "30.png",
+    "31.png",
+    "32.png",
+    "33.png",
+    "34.png",
+    "35.png",
+    "36.png",
+    "37.png",
+    "38.png",
+    "39.png",
+    "40.png",
+    "41.png",
+    "42.png",
+    "43.png",
+    "44.png",
+    "45.png",
+    "46.png",
+    "47.png",
+    "48.png",
+    "49.png",
+    "50.png",
+    "51.png",
+    "52.png",
+    "53.png",
+    "54.png",
+    "55.png",
+    "56.png",
+    "57.png",
+    "58.png",
+    "59.png",
+    "60.png",
+    "61.png",
+    "62.png",
+    "63.png",
+    "64.png",
+    "65.png",
+    "66.png",
+    "67.png",
+    "68.png",
+    "69.png",
+    "70.png",
+    "71.png",
+    "72.png",
+    "73.png",
+    "74.png",
+    "75.png",
+    "76.png",
+    "77.png",
+    "78.png",
+    "79.png",
+    "80.png",
+    "81.png",
+    "82.png",
+    "83.png",
+    "84.png",
+    "85.png",
+    "86.png",
+    "87.png",
+    "88.png",
+    "89.png",
+    "90.png",
+    "91.png",
+    "92.png",
+    "93.png"
+  ],
+  "dict": {
+    "01.png": {
+      "type": "photo",
+      "width": 1508,
+      "height": 1066,
+      "path": "./photos/2019/Heapcon/01.png",
+      "min_path": "./photos/2019/Heapcon/01.min.png"
+    },
+    "02.png": {
+      "type": "photo",
+      "width": 1074,
+      "height": 760,
+      "path": "./photos/2019/Heapcon/02.png",
+      "min_path": "./photos/2019/Heapcon/02.min.png"
+    },
+    "03.png": {
+      "type": "photo",
+      "width": 1074,
+      "height": 760,
+      "path": "./photos/2019/Heapcon/03.png",
+      "min_path": "./photos/2019/Heapcon/03.min.png"
+    },
+    "04.png": {
+      "type": "photo",
+      "width": 1074,
+      "height": 760,
+      "path": "./photos/2019/Heapcon/04.png",
+      "min_path": "./photos/2019/Heapcon/04.min.png"
+    },
+    "05.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/05.png",
+      "min_path": "./photos/2019/Heapcon/05.min.png"
+    },
+    "06.png": {
+      "type": "photo",
+      "width": 1074,
+      "height": 760,
+      "path": "./photos/2019/Heapcon/06.png",
+      "min_path": "./photos/2019/Heapcon/06.min.png"
+    },
+    "07.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/07.png",
+      "min_path": "./photos/2019/Heapcon/07.min.png"
+    },
+    "08.png": {
+      "type": "photo",
+      "width": 1074,
+      "height": 760,
+      "path": "./photos/2019/Heapcon/08.png",
+      "min_path": "./photos/2019/Heapcon/08.min.png"
+    },
+    "09.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/09.png",
+      "min_path": "./photos/2019/Heapcon/09.min.png"
+    },
+    "10.png": {
+      "type": "photo",
+      "width": 1074,
+      "height": 760,
+      "path": "./photos/2019/Heapcon/10.png",
+      "min_path": "./photos/2019/Heapcon/10.min.png"
+    },
+    "11.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/11.png",
+      "min_path": "./photos/2019/Heapcon/11.min.png"
+    },
+    "12.png": {
+      "type": "photo",
+      "width": 1074,
+      "height": 760,
+      "path": "./photos/2019/Heapcon/12.png",
+      "min_path": "./photos/2019/Heapcon/12.min.png"
+    },
+    "13.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/13.png",
+      "min_path": "./photos/2019/Heapcon/13.min.png"
+    },
+    "14.png": {
+      "type": "photo",
+      "width": 1074,
+      "height": 760,
+      "path": "./photos/2019/Heapcon/14.png",
+      "min_path": "./photos/2019/Heapcon/14.min.png"
+    },
+    "15.png": {
+      "type": "photo",
+      "width": 1074,
+      "height": 760,
+      "path": "./photos/2019/Heapcon/15.png",
+      "min_path": "./photos/2019/Heapcon/15.min.png"
+    },
+    "16.png": {
+      "type": "photo",
+      "width": 1074,
+      "height": 760,
+      "path": "./photos/2019/Heapcon/16.png",
+      "min_path": "./photos/2019/Heapcon/16.min.png"
+    },
+    "17.png": {
+      "type": "photo",
+      "width": 1074,
+      "height": 760,
+      "path": "./photos/2019/Heapcon/17.png",
+      "min_path": "./photos/2019/Heapcon/17.min.png"
+    },
+    "18.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/18.png",
+      "min_path": "./photos/2019/Heapcon/18.min.png"
+    },
+    "19.png": {
+      "type": "photo",
+      "width": 1074,
+      "height": 760,
+      "path": "./photos/2019/Heapcon/19.png",
+      "min_path": "./photos/2019/Heapcon/19.min.png"
+    },
+    "20.png": {
+      "type": "photo",
+      "width": 876,
+      "height": 618,
+      "path": "./photos/2019/Heapcon/20.png",
+      "min_path": "./photos/2019/Heapcon/20.min.png"
+    },
+    "21.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/21.png",
+      "min_path": "./photos/2019/Heapcon/21.min.png"
+    },
+    "22.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/22.png",
+      "min_path": "./photos/2019/Heapcon/22.min.png"
+    },
+    "23.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/23.png",
+      "min_path": "./photos/2019/Heapcon/23.min.png"
+    },
+    "24.png": {
+      "type": "photo",
+      "width": 1074,
+      "height": 760,
+      "path": "./photos/2019/Heapcon/24.png",
+      "min_path": "./photos/2019/Heapcon/24.min.png"
+    },
+    "25.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/25.png",
+      "min_path": "./photos/2019/Heapcon/25.min.png"
+    },
+    "26.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/26.png",
+      "min_path": "./photos/2019/Heapcon/26.min.png"
+    },
+    "27.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/27.png",
+      "min_path": "./photos/2019/Heapcon/27.min.png"
+    },
+    "28.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/28.png",
+      "min_path": "./photos/2019/Heapcon/28.min.png"
+    },
+    "29.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/29.png",
+      "min_path": "./photos/2019/Heapcon/29.min.png"
+    },
+    "30.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/30.png",
+      "min_path": "./photos/2019/Heapcon/30.min.png"
+    },
+    "31.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/31.png",
+      "min_path": "./photos/2019/Heapcon/31.min.png"
+    },
+    "32.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/32.png",
+      "min_path": "./photos/2019/Heapcon/32.min.png"
+    },
+    "33.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/33.png",
+      "min_path": "./photos/2019/Heapcon/33.min.png"
+    },
+    "34.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/34.png",
+      "min_path": "./photos/2019/Heapcon/34.min.png"
+    },
+    "35.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/35.png",
+      "min_path": "./photos/2019/Heapcon/35.min.png"
+    },
+    "36.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/36.png",
+      "min_path": "./photos/2019/Heapcon/36.min.png"
+    },
+    "37.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/37.png",
+      "min_path": "./photos/2019/Heapcon/37.min.png"
+    },
+    "38.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/38.png",
+      "min_path": "./photos/2019/Heapcon/38.min.png"
+    },
+    "39.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/39.png",
+      "min_path": "./photos/2019/Heapcon/39.min.png"
+    },
+    "40.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/40.png",
+      "min_path": "./photos/2019/Heapcon/40.min.png"
+    },
+    "41.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/41.png",
+      "min_path": "./photos/2019/Heapcon/41.min.png"
+    },
+    "42.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/42.png",
+      "min_path": "./photos/2019/Heapcon/42.min.png"
+    },
+    "43.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/43.png",
+      "min_path": "./photos/2019/Heapcon/43.min.png"
+    },
+    "44.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/44.png",
+      "min_path": "./photos/2019/Heapcon/44.min.png"
+    },
+    "45.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/45.png",
+      "min_path": "./photos/2019/Heapcon/45.min.png"
+    },
+    "46.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/46.png",
+      "min_path": "./photos/2019/Heapcon/46.min.png"
+    },
+    "47.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/47.png",
+      "min_path": "./photos/2019/Heapcon/47.min.png"
+    },
+    "48.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/48.png",
+      "min_path": "./photos/2019/Heapcon/48.min.png"
+    },
+    "49.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/49.png",
+      "min_path": "./photos/2019/Heapcon/49.min.png"
+    },
+    "50.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/50.png",
+      "min_path": "./photos/2019/Heapcon/50.min.png"
+    },
+    "51.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/51.png",
+      "min_path": "./photos/2019/Heapcon/51.min.png"
+    },
+    "52.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/52.png",
+      "min_path": "./photos/2019/Heapcon/52.min.png"
+    },
+    "53.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/53.png",
+      "min_path": "./photos/2019/Heapcon/53.min.png"
+    },
+    "54.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/54.png",
+      "min_path": "./photos/2019/Heapcon/54.min.png"
+    },
+    "55.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/55.png",
+      "min_path": "./photos/2019/Heapcon/55.min.png"
+    },
+    "56.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/56.png",
+      "min_path": "./photos/2019/Heapcon/56.min.png"
+    },
+    "57.png": {
+      "type": "photo",
+      "width": 1074,
+      "height": 760,
+      "path": "./photos/2019/Heapcon/57.png",
+      "min_path": "./photos/2019/Heapcon/57.min.png"
+    },
+    "58.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/58.png",
+      "min_path": "./photos/2019/Heapcon/58.min.png"
+    },
+    "59.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/59.png",
+      "min_path": "./photos/2019/Heapcon/59.min.png"
+    },
+    "60.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/60.png",
+      "min_path": "./photos/2019/Heapcon/60.min.png"
+    },
+    "61.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/61.png",
+      "min_path": "./photos/2019/Heapcon/61.min.png"
+    },
+    "62.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/62.png",
+      "min_path": "./photos/2019/Heapcon/62.min.png"
+    },
+    "63.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/63.png",
+      "min_path": "./photos/2019/Heapcon/63.min.png"
+    },
+    "64.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/64.png",
+      "min_path": "./photos/2019/Heapcon/64.min.png"
+    },
+    "65.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/65.png",
+      "min_path": "./photos/2019/Heapcon/65.min.png"
+    },
+    "66.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/66.png",
+      "min_path": "./photos/2019/Heapcon/66.min.png"
+    },
+    "67.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/67.png",
+      "min_path": "./photos/2019/Heapcon/67.min.png"
+    },
+    "68.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/68.png",
+      "min_path": "./photos/2019/Heapcon/68.min.png"
+    },
+    "69.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/69.png",
+      "min_path": "./photos/2019/Heapcon/69.min.png"
+    },
+    "70.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/70.png",
+      "min_path": "./photos/2019/Heapcon/70.min.png"
+    },
+    "71.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/71.png",
+      "min_path": "./photos/2019/Heapcon/71.min.png"
+    },
+    "72.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/72.png",
+      "min_path": "./photos/2019/Heapcon/72.min.png"
+    },
+    "73.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/73.png",
+      "min_path": "./photos/2019/Heapcon/73.min.png"
+    },
+    "74.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/74.png",
+      "min_path": "./photos/2019/Heapcon/74.min.png"
+    },
+    "75.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/75.png",
+      "min_path": "./photos/2019/Heapcon/75.min.png"
+    },
+    "76.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/76.png",
+      "min_path": "./photos/2019/Heapcon/76.min.png"
+    },
+    "77.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/77.png",
+      "min_path": "./photos/2019/Heapcon/77.min.png"
+    },
+    "78.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/78.png",
+      "min_path": "./photos/2019/Heapcon/78.min.png"
+    },
+    "79.png": {
+      "type": "photo",
+      "width": 1074,
+      "height": 760,
+      "path": "./photos/2019/Heapcon/79.png",
+      "min_path": "./photos/2019/Heapcon/79.min.png"
+    },
+    "80.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/80.png",
+      "min_path": "./photos/2019/Heapcon/80.min.png"
+    },
+    "81.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/81.png",
+      "min_path": "./photos/2019/Heapcon/81.min.png"
+    },
+    "82.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/82.png",
+      "min_path": "./photos/2019/Heapcon/82.min.png"
+    },
+    "83.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/83.png",
+      "min_path": "./photos/2019/Heapcon/83.min.png"
+    },
+    "84.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/84.png",
+      "min_path": "./photos/2019/Heapcon/84.min.png"
+    },
+    "85.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/85.png",
+      "min_path": "./photos/2019/Heapcon/85.min.png"
+    },
+    "86.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/86.png",
+      "min_path": "./photos/2019/Heapcon/86.min.png"
+    },
+    "87.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/87.png",
+      "min_path": "./photos/2019/Heapcon/87.min.png"
+    },
+    "88.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/88.png",
+      "min_path": "./photos/2019/Heapcon/88.min.png"
+    },
+    "89.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/89.png",
+      "min_path": "./photos/2019/Heapcon/89.min.png"
+    },
+    "90.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/90.png",
+      "min_path": "./photos/2019/Heapcon/90.min.png"
+    },
+    "91.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/91.png",
+      "min_path": "./photos/2019/Heapcon/91.min.png"
+    },
+    "92.png": {
+      "type": "photo",
+      "width": 1431,
+      "height": 1012,
+      "path": "./photos/2019/Heapcon/92.png",
+      "min_path": "./photos/2019/Heapcon/92.min.png"
+    },
+    "93.png": {
+      "type": "photo",
+      "width": 1165,
+      "height": 825,
+      "path": "./photos/2019/Heapcon/93.png",
+      "min_path": "./photos/2019/Heapcon/93.min.png"
+    }
+  }
+}
